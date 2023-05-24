@@ -87,4 +87,4 @@ except:
 	print("Esimi Ala Bilmədik. ):")
 	
 havali("Xoş İsdifadələr Hörmətlə Zeyn")
-havali("Telegram: @zeynmamed / Whatsapp: +994 055 929 59 16")
+havali("Telegram: @zeynmamed ")
