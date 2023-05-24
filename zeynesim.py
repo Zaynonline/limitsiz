@@ -10,7 +10,7 @@ print("                                                 ")
 print("    NƏ ÇƏTİNLİYİNİZ OLSA BUYURUN YAZİN           ")
 print("                                                 ")
 print("---Pulmu insana Bağlı insanmı Pula Bağlı ? :)---")
-print("")
+print("                                                 ")
 eposta = input("Gmail yaz ( Temp mail ) : ")
 def havali(parametre, time_sleep = 0.04):
     soz=[]
