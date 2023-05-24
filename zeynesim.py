@@ -63,7 +63,7 @@ res2=requests.post(url2,headers=headers2)
 sonuc2=res2.json()["sessionId"]
 
 #------------- Y Coin Çekme -----------#
-url3="https://iweb.yesim.app/v1/code_apply?ref_code&web_key="+sonuc2+"&ref_code=IUDC350&lang=en"
+url3="https://iweb.yesim.app/v1/code_apply?ref_code&web_key="+sonuc2+"&ref_code=JDGT111&lang=en"
 headers3={
     'Host': 'iweb.yesim.app'
 }
