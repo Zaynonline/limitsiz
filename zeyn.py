@@ -9,7 +9,7 @@ print("          Telegram: @zeynmamed                   ")
 print("                                                 ")
 print("    NƏ ÇƏTİNLİYİNİZ OLSA BUYURUN YAZİN           ")
 print("                                                 ")
-print("---Pulmu insana Bağlı insanmı Pula Bağlı ? :)---")
+print("---Pulmu insana Bağlı insanmı Pula Bağlı ? buda insana bağlı bağlı. :)---")
 print("                                                 ")
 eposta = input("Gmail yaz ( Temp mail ) : ")
 def havali(parametre, time_sleep = 0.04):
@@ -63,7 +63,7 @@ res2=requests.post(url2,headers=headers2)
 sonuc2=res2.json()["sessionId"]
 
 #------------- Y Coin Çekme -----------#
-url3="https://iweb.yesim.app/v1/code_apply?ref_code&web_key="+sonuc2+"&ref_code=JDGT111&lang=en"
+url3="https://iweb.yesim.app/v1/code_apply?ref_code&web_key="+sonuc2+"&ref_code=JQUH783&lang=en"
 headers3={
     'Host': 'iweb.yesim.app'
 }
